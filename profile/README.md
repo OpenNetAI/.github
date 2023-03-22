@@ -12,8 +12,7 @@ NIRC回归科学技术本源，坚持系统级创新，希望对本领域技术�
 DSMRC-S is an extractive summarization method based on machine reading comprehension and distant supervision, and it has been published as "*Distant Supervision based Machine Reading Comprehension for Extractive Summarization in Customer Service*", SIGIR 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3463046) [[Code]](https://github.com/OpenNetAI/DSMRC-S)
 
 ### GRSGD
-GRSGD is a gradient sparsification method to accelerate the distributed edge learning process, and it has been published as "*Following the Correct Direction: Renovating Sparsified SGD Towards Global Optimization in Distributed Edge Learning*" in IEEE Journal on Selected Areas in Communications, 2022. [[Code]](https://github.com/OpenNetAI/GRSGD)
-
+GRSGD is a gradient sparsification method to accelerate the distributed edge learning process, and it has been published as "*Following the Correct Direction: Renovating Sparsified SGD Towards Global Optimization in Distributed Edge Learning*" in IEEE Journal on Selected Areas in Communications, 2022. [[Paper]](https://doi.org/10.1109/JSAC.2021.3118396) [[Code]](https://github.com/OpenNetAI/GRSGD)
 
 ### GSSP
 GSSP groups edge nodes with similar performance together to eliminate tragglers in the heterogeneous edge environment and refine the model weights, and it has been published as "*GSSP: Eliminating Stragglers Through Grouping Synchronous for Distributed Deep Learning in Heterogeneous Cluster*" in IEEE Transactions on Cloud Computing, 2022. [[Paper]](https://doi.org/10.1109/TCC.2021.3062398) [[Code]](https://github.com/OpenNetAI/GSSP)
